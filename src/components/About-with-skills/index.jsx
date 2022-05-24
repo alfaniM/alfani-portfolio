@@ -18,7 +18,7 @@ const AboutWithSkills = () => {
                 <span></span>
               </div>
               <h3 className="main-title wow" data-splitting>
-                My mission is to design dan develop great applications that are useful for all.
+                My mission is to design and develop great applications that are useful for all.
               </h3>
               <p className="wow fadeInUp" data-wow-delay=".5s">
                 Hello! I’m Muhammad Aulia Alfani. UI/UX designer from Indonesia, Jawa Barat. Passionate in UI/UX design and Front-end web development with high interests in product design, design thinking, social media, digital marketing,
