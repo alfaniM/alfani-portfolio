@@ -17,7 +17,7 @@ const IntroTxt = ({ subBG }) => {
                 <a href="https://www.behance.net/alfaniaulia" className="icon">
                   <i className="fab fa-behance"></i>
                 </a>
-                <a href="https://www.instagram.com/m.alfaniii" className="icon" target="_blank">
+                <a href="https://www.instagram.com/m.alfaniii" className="icon">
                   <i className="fab fa-instagram"></i>
                 </a>
                 <a href="#0" className="icon">
